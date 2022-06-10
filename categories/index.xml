@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Northendlab | Blog Template</title>
-    <link>http://xiaowoniu22.github.io/categories/</link>
+    <link>https://xiaowoniu22.github.io/categories/</link>
     <description>Recent content in Categories on Northendlab | Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2019 05:00:00 +0000</lastBuildDate><atom:link href="http://xiaowoniu22.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Nov 2019 05:00:00 +0000</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Tools</title>
-      <link>http://xiaowoniu22.github.io/categories/design-tools/</link>
+      <link>https://xiaowoniu22.github.io/categories/design-tools/</link>
       <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
       
-      <guid>http://xiaowoniu22.github.io/categories/design-tools/</guid>
+      <guid>https://xiaowoniu22.github.io/categories/design-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development Tools</title>
-      <link>http://xiaowoniu22.github.io/categories/development-tools/</link>
+      <link>https://xiaowoniu22.github.io/categories/development-tools/</link>
       <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
       
-      <guid>http://xiaowoniu22.github.io/categories/development-tools/</guid>
+      <guid>https://xiaowoniu22.github.io/categories/development-tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://xiaowoniu22.github.io/categories/hugo/</link>
+      <link>https://xiaowoniu22.github.io/categories/hugo/</link>
       <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
       
-      <guid>http://xiaowoniu22.github.io/categories/hugo/</guid>
+      <guid>https://xiaowoniu22.github.io/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meta Data</title>
-      <link>http://xiaowoniu22.github.io/categories/meta-data/</link>
+      <link>https://xiaowoniu22.github.io/categories/meta-data/</link>
       <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
       
-      <guid>http://xiaowoniu22.github.io/categories/meta-data/</guid>
+      <guid>https://xiaowoniu22.github.io/categories/meta-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SEO Learning</title>
-      <link>http://xiaowoniu22.github.io/categories/seo-learning/</link>
+      <link>https://xiaowoniu22.github.io/categories/seo-learning/</link>
       <pubDate>Thu, 07 Nov 2019 05:00:00 +0000</pubDate>
       
-      <guid>http://xiaowoniu22.github.io/categories/seo-learning/</guid>
+      <guid>https://xiaowoniu22.github.io/categories/seo-learning/</guid>
       <description></description>
     </item>
     
