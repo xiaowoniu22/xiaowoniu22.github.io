@@ -32,9 +32,6 @@
     <loc>https://xiaowoniu22.github.io/my-awesome-blog-post/</loc>
     <lastmod>2019-11-07T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/posts/my-awesome-blog-post.1/</loc>
-    <lastmod>2019-11-07T05:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://xiaowoniu22.github.io/posts/my-awesome-blog-post.2/</loc>
     <lastmod>2019-11-07T05:00:00+00:00</lastmod>
   </url><url>
@@ -95,6 +92,8 @@
   </url><url>
     <loc>https://xiaowoniu22.github.io/contact/</loc>
   </url><url>
+    <loc>https://xiaowoniu22.github.io/categories/english-learning/</loc>
+  </url><url>
     <loc>https://xiaowoniu22.github.io/author/john-doe/</loc>
   </url><url>
     <loc>https://xiaowoniu22.github.io/author/mark-dinn/</loc>
@@ -104,5 +103,7 @@
     <loc>https://xiaowoniu22.github.io/tags/</loc>
   </url><url>
     <loc>https://xiaowoniu22.github.io/tools/</loc>
+  </url><url>
+    <loc>https://xiaowoniu22.github.io/posts/my-awesome-blog-post.1/</loc>
   </url>
 </urlset>
