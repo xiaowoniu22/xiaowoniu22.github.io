@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React Learning on </title>
-    <link>https://demo.gethugothemes.com/categories/react-learning/</link>
+    <link>https://xiaowoniu22.github.io/categories/react-learning/</link>
     <description>Recent content in React Learning on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2020 14:49:24 +0800</lastBuildDate><atom:link href="https://demo.gethugothemes.com/categories/react-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Mar 2020 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/categories/react-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ARTS打卡计划第二周</title>
-      <link>https://demo.gethugothemes.com/posts/post5/</link>
+      <link>https://xiaowoniu22.github.io/posts/post5/</link>
       <pubDate>Sun, 22 Mar 2020 14:49:24 +0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/posts/post5/</guid>
+      <guid>https://xiaowoniu22.github.io/posts/post5/</guid>
       <description>一、Algorithm 20. 有效的括号 我的思路：
 字符串第一位入栈，之后的每一位依次和前一位匹配，匹配成功，出栈，不成功则入栈。最终，栈为空，则是有效括号，否则无效。
 二、Review 9 Tips for Building Awesome Reusable React Components</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>ARTS打卡计划第一周</title>
-      <link>https://demo.gethugothemes.com/posts/post4/</link>
+      <link>https://xiaowoniu22.github.io/posts/post4/</link>
       <pubDate>Sun, 15 Mar 2020 14:49:24 +0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/posts/post4/</guid>
+      <guid>https://xiaowoniu22.github.io/posts/post4/</guid>
       <description>一、Algorithm 121. 买卖股票的最佳时机
 本人的暴力解法： 最优解法：
 二、Review 4 Best Practices To Write Quality JavaScript Modules</description>
@@ -31,10 +31,10 @@
     
     <item>
       <title>React setState合并和批量处理——React</title>
-      <link>https://demo.gethugothemes.com/posts/post1/</link>
+      <link>https://xiaowoniu22.github.io/posts/post1/</link>
       <pubDate>Sat, 14 Mar 2020 14:49:24 +0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/posts/post1/</guid>
+      <guid>https://xiaowoniu22.github.io/posts/post1/</guid>
       <description>State的更新什么时候是同步，什么时候是异步
 1、 State的更新什么时候是同步，什么时候是异步。
 正如我们所知，react中使用setState更新state,而state的更新大多数情况下是异步的，但是有些情况却是同步的。 在React中，如果是由React引发的事件处理（比如通过onClick引发的事件处理），调用setState不会同步更新this.state，除此之外的setState调用会同步执行this.state。所谓“除此之外”，指的是绕过React通过addEventListener直接添加的事件处理函数，还有通过setTimeout/setInterval产生的异步调用。**

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>https://demo.gethugothemes.com/posts/</link>
+    <link>https://xiaowoniu22.github.io/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jun 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://demo.gethugothemes.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>英语学习——原版书籍阅读</title>
-      <link>https://demo.gethugothemes.com/posts/post3/</link>
+      <link>https://xiaowoniu22.github.io/posts/post3/</link>
       <pubDate>Mon, 13 Jun 2022 14:49:24 +0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/posts/post3/</guid>
+      <guid>https://xiaowoniu22.github.io/posts/post3/</guid>
       <description>之前很长一段时间，我的英语学习一直停留在没有实质进步但也不愿意放弃的状态。坚持每周做着听力训练，但是数量不足，所以坚持了很长一段时间依然是原本听不懂的现在依然听不懂。最近我决定换个方法试试。
 原版书籍阅读
 1、 找简单易读的英文原版书入门。简单易读，最好有趣味性，能够坚持读下去。我找了《神奇树屋》（Magic Tree House）系列。 2、扩展阅读继续读。读了5本Magic Tree House之后我开始想换个口味，于是开始读同样有趣易读的Roald Dahl的《Matilda》《The Magic Finger》。 3、找自己感兴趣的原版读。读完了以上我看到的这本《One Man&amp;rsquo;s View of hre World》,我本人之一比较喜欢读政经类的书.</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>JS中的求值策略</title>
-      <link>https://demo.gethugothemes.com/posts/post2/</link>
+      <link>https://xiaowoniu22.github.io/posts/post2/</link>
       <pubDate>Sun, 13 Jun 2021 14:49:24 +0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/posts/post2/</guid>
+      <guid>https://xiaowoniu22.github.io/posts/post2/</guid>
       <description>一、是啥 求值策略（Evaluation strategy）是啥？
 是一种策略 是一种决定什么时候，用什么方式计算函数参数的策略
 是一种分为严格求值和非严格求值的策略 二、为啥 为啥会需要这样一种策略？
@@ -33,29 +33,29 @@ function sum(x, y) { return x + y; } 调用它</description>
     
     <item>
       <title>ARTS打卡计划第四周</title>
-      <link>https://demo.gethugothemes.com/posts/post7/</link>
+      <link>https://xiaowoniu22.github.io/posts/post7/</link>
       <pubDate>Sun, 05 Apr 2020 14:49:24 +0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/posts/post7/</guid>
+      <guid>https://xiaowoniu22.github.io/posts/post7/</guid>
       <description>一、Algorithm 365. 水壶问题
 二、Review 3 Examples of When Not to Use JavaScript Arrow Functions</description>
     </item>
     
     <item>
       <title>ARTS打卡计划第三周</title>
-      <link>https://demo.gethugothemes.com/posts/post6/</link>
+      <link>https://xiaowoniu22.github.io/posts/post6/</link>
       <pubDate>Sun, 29 Mar 2020 14:49:24 +0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/posts/post6/</guid>
+      <guid>https://xiaowoniu22.github.io/posts/post6/</guid>
       <description>一、Algorithm 165. 比较版本号 二、Review 8 Great Websites to Learn New Tech Skills During the Covid-19 Pandemic</description>
     </item>
     
     <item>
       <title>ARTS打卡计划第二周</title>
-      <link>https://demo.gethugothemes.com/posts/post5/</link>
+      <link>https://xiaowoniu22.github.io/posts/post5/</link>
       <pubDate>Sun, 22 Mar 2020 14:49:24 +0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/posts/post5/</guid>
+      <guid>https://xiaowoniu22.github.io/posts/post5/</guid>
       <description>一、Algorithm 20. 有效的括号 我的思路：
 字符串第一位入栈，之后的每一位依次和前一位匹配，匹配成功，出栈，不成功则入栈。最终，栈为空，则是有效括号，否则无效。
 二、Review 9 Tips for Building Awesome Reusable React Components</description>
@@ -63,10 +63,10 @@ function sum(x, y) { return x + y; } 调用它</description>
     
     <item>
       <title>ARTS打卡计划第一周</title>
-      <link>https://demo.gethugothemes.com/posts/post4/</link>
+      <link>https://xiaowoniu22.github.io/posts/post4/</link>
       <pubDate>Sun, 15 Mar 2020 14:49:24 +0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/posts/post4/</guid>
+      <guid>https://xiaowoniu22.github.io/posts/post4/</guid>
       <description>一、Algorithm 121. 买卖股票的最佳时机
 本人的暴力解法： 最优解法：
 二、Review 4 Best Practices To Write Quality JavaScript Modules</description>
@@ -74,10 +74,10 @@ function sum(x, y) { return x + y; } 调用它</description>
     
     <item>
       <title>React setState合并和批量处理——React</title>
-      <link>https://demo.gethugothemes.com/posts/post1/</link>
+      <link>https://xiaowoniu22.github.io/posts/post1/</link>
       <pubDate>Sat, 14 Mar 2020 14:49:24 +0800</pubDate>
       
-      <guid>https://demo.gethugothemes.com/posts/post1/</guid>
+      <guid>https://xiaowoniu22.github.io/posts/post1/</guid>
       <description>State的更新什么时候是同步，什么时候是异步
 1、 State的更新什么时候是同步，什么时候是异步。
 正如我们所知，react中使用setState更新state,而state的更新大多数情况下是异步的，但是有些情况却是同步的。 在React中，如果是由React引发的事件处理（比如通过onClick引发的事件处理），调用setState不会同步更新this.state，除此之外的setState调用会同步执行this.state。所谓“除此之外”，指的是绕过React通过addEventListener直接添加的事件处理函数，还有通过setTimeout/setInterval产生的异步调用。**
