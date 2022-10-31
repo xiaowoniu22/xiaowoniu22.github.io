@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JS Learning on </title>
+    <link>https://demo.gethugothemes.com/categories/js-learning/</link>
+    <description>Recent content in JS Learning on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jun 2021 14:49:24 +0800</lastBuildDate><atom:link href="https://demo.gethugothemes.com/categories/js-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JS中的求值策略</title>
+      <link>https://demo.gethugothemes.com/posts/post2/</link>
+      <pubDate>Sun, 13 Jun 2021 14:49:24 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/posts/post2/</guid>
+      <description>一、是啥 求值策略（Evaluation strategy）是啥？
+是一种策略 是一种决定什么时候，用什么方式计算函数参数的策略
+是一种分为严格求值和非严格求值的策略 二、为啥 为啥会需要这样一种策略？
+定义一个函数
+function sum(x, y) { return x + y; } 调用它</description>
+    </item>
+    
+  </channel>
+</rss>

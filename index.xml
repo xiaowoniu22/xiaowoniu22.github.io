@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Northendlab | Blog Template</title>
-    <link>https://xiaowoniu22.github.io/</link>
-    <description>Recent content on Northendlab | Blog Template</description>
+    <title></title>
+    <link>https://demo.gethugothemes.com/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jun 2022 11:11:08 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 11:11:08 +0800</lastBuildDate><atom:link href="https://demo.gethugothemes.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>珍奇屋</title>
-      <link>https://xiaowoniu22.github.io/wunderkammern/wunderkammern1/</link>
+      <link>https://demo.gethugothemes.com/wunderkammern/wunderkammern1/</link>
       <pubDate>Tue, 14 Jun 2022 11:11:08 +0800</pubDate>
       
-      <guid>https://xiaowoniu22.github.io/wunderkammern/wunderkammern1/</guid>
+      <guid>https://demo.gethugothemes.com/wunderkammern/wunderkammern1/</guid>
       <description>珍奇屋是15到18世纪间，欧洲收藏家用于陈列自己收藏的稀奇物件和珍贵文物的屋子，是博物馆的前身。
 八、九岁的时候我用鞋盒子给自己做过一个百宝箱，里边存着那个时候自己珍惜的宝贝，有一对喷着金漆的塑料小蟋蟀，站在纸板底座的弹簧叶子上，一碰就摇摇晃晃的动。还有姐姐送的钢笔，方便面里攒的小卡片，漂亮的包装盒&amp;hellip;&amp;hellip;后来因为上学，离家越来越远，二十几年过去，我的百宝箱也没有踪影了。
 如今，在这里造个珍奇屋作为我童年百宝箱的延续吧，记录我的奇怪想法，我的经历，收纳我读过的书，我的奇珍异宝。</description>
@@ -20,48 +20,118 @@
     
     <item>
       <title>英语学习——原版书籍阅读</title>
-      <link>https://xiaowoniu22.github.io/posts/post1/</link>
+      <link>https://demo.gethugothemes.com/posts/post3/</link>
       <pubDate>Mon, 13 Jun 2022 14:49:24 +0800</pubDate>
       
-      <guid>https://xiaowoniu22.github.io/posts/post1/</guid>
+      <guid>https://demo.gethugothemes.com/posts/post3/</guid>
       <description>之前很长一段时间，我的英语学习一直停留在没有实质进步但也不愿意放弃的状态。坚持每周做着听力训练，但是数量不足，所以坚持了很长一段时间依然是原本听不懂的现在依然听不懂。最近我决定换个方法试试。
 原版书籍阅读
 1、 找简单易读的英文原版书入门。简单易读，最好有趣味性，能够坚持读下去。我找了《神奇树屋》（Magic Tree House）系列。 2、扩展阅读继续读。读了5本Magic Tree House之后我开始想换个口味，于是开始读同样有趣易读的Roald Dahl的《Matilda》《The Magic Finger》。 3、找自己感兴趣的原版读。读完了以上我看到的这本《One Man&amp;rsquo;s View of hre World》,我本人之一比较喜欢读政经类的书.</description>
     </item>
     
     <item>
+      <title>JS中的求值策略</title>
+      <link>https://demo.gethugothemes.com/posts/post2/</link>
+      <pubDate>Sun, 13 Jun 2021 14:49:24 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/posts/post2/</guid>
+      <description>一、是啥 求值策略（Evaluation strategy）是啥？
+是一种策略 是一种决定什么时候，用什么方式计算函数参数的策略
+是一种分为严格求值和非严格求值的策略 二、为啥 为啥会需要这样一种策略？
+定义一个函数
+function sum(x, y) { return x + y; } 调用它</description>
+    </item>
+    
+    <item>
+      <title>ARTS打卡计划第四周</title>
+      <link>https://demo.gethugothemes.com/posts/post7/</link>
+      <pubDate>Sun, 05 Apr 2020 14:49:24 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/posts/post7/</guid>
+      <description>一、Algorithm 365. 水壶问题
+二、Review 3 Examples of When Not to Use JavaScript Arrow Functions</description>
+    </item>
+    
+    <item>
+      <title>ARTS打卡计划第三周</title>
+      <link>https://demo.gethugothemes.com/posts/post6/</link>
+      <pubDate>Sun, 29 Mar 2020 14:49:24 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/posts/post6/</guid>
+      <description>一、Algorithm 165. 比较版本号 二、Review 8 Great Websites to Learn New Tech Skills During the Covid-19 Pandemic</description>
+    </item>
+    
+    <item>
+      <title>ARTS打卡计划第二周</title>
+      <link>https://demo.gethugothemes.com/posts/post5/</link>
+      <pubDate>Sun, 22 Mar 2020 14:49:24 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/posts/post5/</guid>
+      <description>一、Algorithm 20. 有效的括号 我的思路：
+字符串第一位入栈，之后的每一位依次和前一位匹配，匹配成功，出栈，不成功则入栈。最终，栈为空，则是有效括号，否则无效。
+二、Review 9 Tips for Building Awesome Reusable React Components</description>
+    </item>
+    
+    <item>
+      <title>ARTS打卡计划第一周</title>
+      <link>https://demo.gethugothemes.com/posts/post4/</link>
+      <pubDate>Sun, 15 Mar 2020 14:49:24 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/posts/post4/</guid>
+      <description>一、Algorithm 121. 买卖股票的最佳时机
+本人的暴力解法： 最优解法：
+二、Review 4 Best Practices To Write Quality JavaScript Modules</description>
+    </item>
+    
+    <item>
+      <title>React setState合并和批量处理——React</title>
+      <link>https://demo.gethugothemes.com/posts/post1/</link>
+      <pubDate>Sat, 14 Mar 2020 14:49:24 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/posts/post1/</guid>
+      <description>State的更新什么时候是同步，什么时候是异步
+1、 State的更新什么时候是同步，什么时候是异步。
+正如我们所知，react中使用setState更新state,而state的更新大多数情况下是异步的，但是有些情况却是同步的。 在React中，如果是由React引发的事件处理（比如通过onClick引发的事件处理），调用setState不会同步更新this.state，除此之外的setState调用会同步执行this.state。所谓“除此之外”，指的是绕过React通过addEventListener直接添加的事件处理函数，还有通过setTimeout/setInterval产生的异步调用。**
+二、为什么是异步
+如果setState是同步更新state，而state的更新又会触发组件的重新渲染，那么每次setState都会渲染组件，这对性能是很大的消耗。所以react进行了setState的合并和批量延迟更新，正如官网所述：
+三、如何实现setState的合并和批量延迟
+查看react源码发现，代码中有一个变量锁isBatchingUpdates，isBatchingUpdates表示是否进行批量更新，初始化时默认为false，batchedUpdates方法会将isBatchingUpdates设为true
+var ReactDefaultBatchingStrategy = { isBatchingUpdates: false, batchedUpdates: function(callback, a, b, c, d, e) { var alreadyBatchingUpdates = ReactDefaultBatchingStrategy.</description>
+    </item>
+    
+    <item>
       <title>Contact Us</title>
-      <link>https://xiaowoniu22.github.io/contact/</link>
+      <link>https://demo.gethugothemes.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaowoniu22.github.io/contact/</guid>
+      <guid>https://demo.gethugothemes.com/contact/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.</description>
     </item>
     
     <item>
       <title>John Doe</title>
-      <link>https://xiaowoniu22.github.io/author/john-doe/</link>
+      <link>https://demo.gethugothemes.com/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaowoniu22.github.io/author/john-doe/</guid>
+      <guid>https://demo.gethugothemes.com/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://xiaowoniu22.github.io/author/mark-dinn/</link>
+      <link>https://demo.gethugothemes.com/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaowoniu22.github.io/author/mark-dinn/</guid>
+      <guid>https://demo.gethugothemes.com/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
-      <title>Tools</title>
-      <link>https://xiaowoniu22.github.io/tools/</link>
+      <title>Threejs</title>
+      <link>https://demo.gethugothemes.com/threejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xiaowoniu22.github.io/tools/</guid>
+      <guid>https://demo.gethugothemes.com/threejs/</guid>
       <description></description>
     </item>
     

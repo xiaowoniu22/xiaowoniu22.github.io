@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARTS on </title>
+    <link>https://demo.gethugothemes.com/categories/arts/</link>
+    <description>Recent content in ARTS on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2020 14:49:24 +0800</lastBuildDate><atom:link href="https://demo.gethugothemes.com/categories/arts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ARTS打卡计划第四周</title>
+      <link>https://demo.gethugothemes.com/posts/post7/</link>
+      <pubDate>Sun, 05 Apr 2020 14:49:24 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/posts/post7/</guid>
+      <description>一、Algorithm 365. 水壶问题
+二、Review 3 Examples of When Not to Use JavaScript Arrow Functions</description>
+    </item>
+    
+    <item>
+      <title>ARTS打卡计划第三周</title>
+      <link>https://demo.gethugothemes.com/posts/post6/</link>
+      <pubDate>Sun, 29 Mar 2020 14:49:24 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/posts/post6/</guid>
+      <description>一、Algorithm 165. 比较版本号 二、Review 8 Great Websites to Learn New Tech Skills During the Covid-19 Pandemic</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>ARTS打卡计划第二周</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description"
+    content="React learning">
+    
+    
+  <meta name="author" content="Themefisher">
+  <meta name="generator" content="Hugo 0.100.2" />
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://demo.gethugothemes.com/plugins/bootstrap/bootstrap.min.css ">
+  
+  <link rel="stylesheet" href="https://demo.gethugothemes.com/plugins/themify-icons/themify-icons.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="https://demo.gethugothemes.com/scss/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="https://demo.gethugothemes.com/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="https://demo.gethugothemes.com/images/favicon.png " type="image/x-icon">
+
+  
+  
+  
+
+</head><body>
+    
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+<!-- navigation -->
+<header class="fixed-top navigation">
+  <div class="container">
+    
+    <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+      
+      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <i class="ti-menu h3"></i>
+      </button>
+
+      <div class="collapse navbar-collapse text-center" id="navigation">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://demo.gethugothemes.com/"> Home </a>
+          </li>
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://demo.gethugothemes.com/threejs/">threejs</a>
+            </li>
+            
+          
+            
+            <li class="nav-item">
+              <a class="nav-link" href="https://demo.gethugothemes.com/wunderkammern/">Wunderkammern</a>
+            </li>
+            
+          
+        </ul>
+        
+        <!-- search -->
+        <div class="search">
+          <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
+          <div class="search-wrapper">
+            <form action="https://demo.gethugothemes.com/search" class="h-100">
+              <input class="search-box px-4" id="search-query" name="s" type="search" placeholder="Type & Hit Enter...">
+            </form>
+            <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
+          </div>
+        </div>
+        
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- /navigation --> <div class="py-5 d-none d-lg-block"></div> 
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto block shadow mb-5">
+        <h2>ARTS打卡计划第二周</h2>
+        <div class="mb-3 post-meta">
+          <a href="/author/echo-guo/">Echo Guo</a>,
+          Mar 22, 2020, 
+          <a href="/categories/react-learning/">React Learning</a>
+          
+        </div>
+        
+        <img src="/images/post/post-1.jpeg" class="img-fluid w-100 mb-4" alt="ARTS打卡计划第二周">
+        
+        <div class="content mb-5">
+          <h2 id="一algorithm">一、Algorithm</h2>
+<p><a href="https://leetcode-cn.com/problems/valid-parentheses/">20. 有效的括号</a>
+<img src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/3/22/17100c58110d1731~tplv-t2oaga2asx-image.image" alt="">
+<strong>我的思路：</strong><br>
+字符串第一位入栈，之后的每一位依次和前一位匹配，匹配成功，出栈，不成功则入栈。最终，栈为空，则是有效括号，否则无效。</p>
+<h2 id="二review">二、Review</h2>
+<p><a href="https://blog.bitsrc.io/9-tips-for-building-awesome-reusable-react-components-b91f4846a30a">9 Tips for Building Awesome Reusable React Components</a><br>
+9条编写完美可复用React组件的建议</p>
+<ol>
+<li>Use TypeScript — avoid prop-types<br>
+<strong>使用TypeScript做类型检查，避免使用prop-types</strong><br>
+TypeScript and prop-types are currently two of the most popular ways to type-check React code. The former validates types at compile-time, whereas the latter performs at runtime.<br>
+<strong>TypeScript and prop-types是目前React中最流行的类型检查方法，前者在编译时检查，而后者则是在运行时检查。</strong></li>
+<li>Define Components (Not Just Props &amp; Events)<br>
+<strong>定义组件（不只是props 和 Events）</strong></li>
+<li>Write Your TS in a Way that Enables Auto Documentation<br>
+<strong>写TS时要启用文档自动生成功能</strong></li>
+<li>Inherit Prop Types for Native-HTML-like Components</li>
+<li>One Directory For Each Component<br>
+<strong>为组件编写目录</strong></li>
+<li>Use Aliases</li>
+<li>Use Enums (Instead of Multiple Booleans)
+<strong>使用枚举值，而不是过多使用布尔值</strong></li>
+<li>Set Defaults</li>
+<li>Restrict styling with themes<br>
+<strong>通过主题限制组件的样式</strong><br>
+To provide better predictability to your component’s behavior (including its visual appearance) limit the degree of freedom your component consumers have in overriding your component styling properties.</li>
+</ol>
+<h2 id="三tip">三、Tip</h2>
+<p>使用gitbook serve 和gitbook build时莫名报错（之前一切正常），如图
+<img src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/3/19/170f283c4f86cfec~tplv-t2oaga2asx-image.image" alt="">
+解决方法是找到copyPluginAssets.js文件删除或注释第112行<br>
+/.gitbook/versions/版本/lib/output/website/copyPluginAssets.js</p>
+<p><img src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/3/19/170f2873672d20a8~tplv-t2oaga2asx-image.image" alt=""></p>
+<h2 id="四share">四、Share</h2>
+<p><a href="https://juejin.im/post/6844904099616391182">JS中的求值策略</a></p>
+
+        </div>
+        <div class="mb-3 post-meta">
+          
+        </div>
+      </div>
+      <div class="col-lg-8 mx-auto block shadow">
+        
+        
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+<footer class="py-4 bg-light border-top">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-lg-4 text-center text-lg-left mb-4 mb-lg-0">
+        <a href="https://demo.gethugothemes.com/" class="d-block pb-3"><img src="/" class="img-fluid" alt=""></a>
+      </div>
+      <div class="col-lg-4 text-center mb-4 mb-lg-0">
+        <ul class="list-inline mb-0">
+          
+        </ul>
+      </div>
+      <div class="col-lg-4 text-lg-right text-center mb-4 mb-lg-0">
+        <ul class="list-inline social-icon mb-0">
+          
+          <li class="list-inline-item"><a href="#"><i class="ti-github"></i></a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div class="text-center mt-4">
+      <span></span>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<script>
+  var indexURL = "https://demo.gethugothemes.com/index.json"
+</script>
+
+
+<!-- JS Plugins -->
+
+<script src="https://demo.gethugothemes.com/plugins/jQuery/jquery.min.js"></script>
+
+<script src="https://demo.gethugothemes.com/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://demo.gethugothemes.com/plugins/search/fuse.min.js"></script>
+
+<script src="https://demo.gethugothemes.com/plugins/search/mark.js"></script>
+
+<script src="https://demo.gethugothemes.com/plugins/search/search.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://demo.gethugothemes.com/js/script.min.js"></script>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  2 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+
+</body>
+
+</html>

@@ -2,39 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xiaowoniu22.github.io/</loc>
+    <loc>https://demo.gethugothemes.com/</loc>
     <lastmod>2022-06-14T11:11:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/wunderkammern/</loc>
+    <loc>https://demo.gethugothemes.com/wunderkammern/</loc>
     <lastmod>2022-06-14T11:11:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/wunderkammern/wunderkammern1/</loc>
+    <loc>https://demo.gethugothemes.com/wunderkammern/wunderkammern1/</loc>
     <lastmod>2022-06-14T11:11:08+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/categories/</loc>
+    <loc>https://demo.gethugothemes.com/categories/</loc>
     <lastmod>2022-06-13T14:49:24+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/categories/english-learning/</loc>
+    <loc>https://demo.gethugothemes.com/categories/english-learning/</loc>
     <lastmod>2022-06-13T14:49:24+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/posts/</loc>
+    <loc>https://demo.gethugothemes.com/posts/</loc>
     <lastmod>2022-06-13T14:49:24+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/posts/post1/</loc>
+    <loc>https://demo.gethugothemes.com/posts/post3/</loc>
     <lastmod>2022-06-13T14:49:24+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/author/</loc>
+    <loc>https://demo.gethugothemes.com/categories/js-learning/</loc>
+    <lastmod>2021-06-13T14:49:24+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/contact/</loc>
+    <loc>https://demo.gethugothemes.com/posts/post2/</loc>
+    <lastmod>2021-06-13T14:49:24+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/author/john-doe/</loc>
+    <loc>https://demo.gethugothemes.com/categories/arts/</loc>
+    <lastmod>2020-04-05T14:49:24+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/author/mark-dinn/</loc>
+    <loc>https://demo.gethugothemes.com/posts/post7/</loc>
+    <lastmod>2020-04-05T14:49:24+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/search/</loc>
+    <loc>https://demo.gethugothemes.com/posts/post6/</loc>
+    <lastmod>2020-03-29T14:49:24+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/tags/</loc>
+    <loc>https://demo.gethugothemes.com/posts/post5/</loc>
+    <lastmod>2020-03-22T14:49:24+08:00</lastmod>
   </url><url>
-    <loc>https://xiaowoniu22.github.io/tools/</loc>
+    <loc>https://demo.gethugothemes.com/categories/react-learning/</loc>
+    <lastmod>2020-03-22T14:49:24+08:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/posts/post4/</loc>
+    <lastmod>2020-03-15T14:49:24+08:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/posts/post1/</loc>
+    <lastmod>2020-03-14T14:49:24+08:00</lastmod>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/author/</loc>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/contact/</loc>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/author/john-doe/</loc>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/author/mark-dinn/</loc>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/search/</loc>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/tags/</loc>
+  </url><url>
+    <loc>https://demo.gethugothemes.com/threejs/</loc>
   </url>
 </urlset>
