@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shader on </title>
+    <link>https://xiaowoniu22.github.io/categories/shader/</link>
+    <description>Recent content in shader on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jul 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/categories/shader/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>shader</title>
+      <link>https://xiaowoniu22.github.io/posts/post10/</link>
+      <pubDate>Mon, 25 Jul 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post10/</guid>
+      <description>有时你会觉得用 GLSL 编程就像是把一搜船放到了瓶子里。它同等地困难、美丽而令人满足。 ——The Book of Shaders
+一、 shader学习资料</description>
+    </item>
+    
+  </channel>
+</rss>

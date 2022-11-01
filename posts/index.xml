@@ -6,7 +6,47 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jun 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>shader</title>
+      <link>https://xiaowoniu22.github.io/posts/post10/</link>
+      <pubDate>Mon, 25 Jul 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post10/</guid>
+      <description>有时你会觉得用 GLSL 编程就像是把一搜船放到了瓶子里。它同等地困难、美丽而令人满足。 ——The Book of Shaders
+一、 shader学习资料</description>
+    </item>
+    
+    <item>
+      <title>mvp——图形学基础</title>
+      <link>https://xiaowoniu22.github.io/posts/post9/</link>
+      <pubDate>Sat, 16 Jul 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post9/</guid>
+      <description>引擎推动的不是飞船而是宇宙。飞船压根就没动过。
+一、 模型空间
+Model Matrix将模型空间转换为世界空间
+二、世界空间
+View Matrix将世界空间转换为摄像空间
+三、摄像空间</description>
+    </item>
+    
+    <item>
+      <title>线性代数——图形学基础</title>
+      <link>https://xiaowoniu22.github.io/posts/post8/</link>
+      <pubDate>Thu, 14 Jul 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post8/</guid>
+      <description>有一天我突发奇想，线性代数中的向量是不是就是故事中火柴人一样的存在，线性代数要给我们讲个故事，但是没有人物的故事很难讲下去，于是安排了向量作为故事的主角，故事就徐徐展开了&amp;hellip;&amp;hellip;
+一、 线性变换的本质是空间变换
+线性变换的本质是空间变换，线性代数则是空间变换的代数表达。代数表达是计算的基础。而向量，则只是线性变换的载体。
+二、矩阵与空间变换的关系
+矩阵向量乘法表示线性变换
+矩阵乘法表示线性变换复合
+三、齐次坐标
+齐次坐标真是妙啊。</description>
+    </item>
+    
     <item>
       <title>英语学习——原版书籍阅读</title>
       <link>https://xiaowoniu22.github.io/posts/post3/</link>
