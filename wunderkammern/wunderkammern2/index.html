@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us"><head>
   <meta charset="utf-8">
-  <title></title>
+  <title>新想法</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -85,158 +85,36 @@
     </nav>
   </div>
 </header>
-<!-- /navigation -->
-
-
-<section class="banner bg-cover" style="background-image: url('/images/banner/banner-bg.svg');">
-  
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mb-5 mb-lg-0">
-        <h1>Hi, I&rsquo;m Echo Guo.</h1>
-      </div>
-      <div class="col-lg-4">
-        <img width="200" src="/images/banner/header.jpeg" class="img-fluid" alt="">
-      </div>
-    </div>
-  </div>
-</section>
-
-
+<!-- /navigation --> <div class="py-5 d-none d-lg-block"></div> 
 
 <section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto px-0">
-        <div class="bg-white shadow block">
+      <div class="col-lg-8 mx-auto block shadow mb-5">
+        <h2>新想法</h2>
+        <div class="mb-3 post-meta">
+          <a href="/author//"></a>,
+          Aug 1, 2022, 
+        </div>
+        
+        <img src="/images/post/post-4.jpg" class="img-fluid w-100 mb-4" alt="新想法">
+        
+        <div class="content mb-5">
+          <p>  <strong>最近看到一句话，”凡是我不能创造的,我就不能真正理解“，是物理学家费曼的名言，我想，创造的难度还是挺大的，我先来进行一下一句话解释一个概念的挑战</strong></p>
+
+        </div>
+        <div class="mb-3 post-meta">
           
-          
-          <article class="mb-5">
-  <h2 class="h4"><a class="post-title" href="https://xiaowoniu22.github.io/posts/post4/">ARTS打卡计划第一周</a></h2>
-  <div class="mb-3 post-meta">
-    <a href="/author/echo-guo/">Echo Guo</a>,
-    Mar 15, 2020, 
-    <a href="/categories/react-learning/">React Learning</a>
-    
-  </div>
-  <p>一、Algorithm 121. 买卖股票的最佳时机
-本人的暴力解法： 最优解法：
-二、Review 4 Best Practices To Write Quality JavaScript Modules</p>
-  <div class="mb-3 post-meta">
-    
-  </div>
-  <a href="https://xiaowoniu22.github.io/posts/post4/" class="btn btn-sm btn-transparent pl-0">read more</a>
-  <div style="border: 1px #eee solid; margin:30px 0"></div>
-</article>
-          
-          <article class="mb-5">
-  <h2 class="h4"><a class="post-title" href="https://xiaowoniu22.github.io/posts/post1/">React setState合并和批量处理——React</a></h2>
-  <div class="mb-3 post-meta">
-    <a href="/author/echo-guo/">Echo Guo</a>,
-    Mar 14, 2020, 
-    <a href="/categories/react-learning/">React Learning</a>
-    
-  </div>
-  <p>State的更新什么时候是同步，什么时候是异步
-1、 State的更新什么时候是同步，什么时候是异步。
-正如我们所知，react中使用setState更新state,而state的更新大多数情况下是异步的，但是有些情况却是同步的。 在React中，如果是由React引发的事件处理（比如通过onClick引发的事件处理），调用setState不会同步更新this.state，除此之外的setState调用会同步执行this.state。所谓“除此之外”，指的是绕过React通过addEventListener直接添加的事件处理函数，还有通过setTimeout/setInterval产生的异步调用。**
-二、为什么是异步
-如果setState是同步更新state，而state的更新又会触发组件的重新渲染，那么每次setState都会渲染组件，这对性能是很大的消耗。所以react进行了setState的合并和批量延迟更新，正如官网所述：
-三、如何实现setState的合并和批量延迟
-查看react源码发现，代码中有一个变量锁isBatchingUpdates，isBatchingUpdates表示是否进行批量更新，初始化时默认为false，batchedUpdates方法会将isBatchingUpdates设为true
-var ReactDefaultBatchingStrategy = { isBatchingUpdates: false, batchedUpdates: function(callback, a, b, c, d, e) { var alreadyBatchingUpdates = ReactDefaultBatchingStrategy.</p>
-  <div class="mb-3 post-meta">
-    
-  </div>
-  <a href="https://xiaowoniu22.github.io/posts/post1/" class="btn btn-sm btn-transparent pl-0">read more</a>
-  <div style="border: 1px #eee solid; margin:30px 0"></div>
-</article>
-          
-          
-          <div class="mt-5">
-            <!-- pagination -->
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            <nav aria-label="Page navigation">
-              <ul class="pagination justify-content-center align-items-center">
-                
-                
-                <li class="page-item">
-                  <a href="/amp/page/2/" class="page-link">
-                    &laquo;
-                  </a>
-                </li>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                <li class="page-item">
-                  <a href="/amp/" class="page-link">
-                    1
-                  </a>
-                </li>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                <li class="page-item">
-                  <a href="/amp/page/2/" class="page-link">
-                    2
-                  </a>
-                </li>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                <li class="page-item page-item active ">
-                  <a href="/amp/page/3/" class="page-link">
-                    3
-                  </a>
-                </li>
-                
-                
-                
-                
-              </ul>
-            </nav>
-            
-            <!-- /pagination -->
-          </div>
         </div>
       </div>
+      <div class="col-lg-8 mx-auto block shadow">
+        
+        
+      </div>
+      
     </div>
   </div>
 </section>
-
-
-
-
-
 
 
 <footer class="py-4 bg-light border-top">
