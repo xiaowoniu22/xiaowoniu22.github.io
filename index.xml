@@ -6,9 +6,116 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Aug 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>promise就是状态机—挑战一句话解释一个概念</title>
+      <title>shader</title>
+      <link>https://xiaowoniu22.github.io/posts/post10/</link>
+      <pubDate>Tue, 25 Oct 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post10/</guid>
+      <description>有时你会觉得用 GLSL 编程就像是把一搜船放到了瓶子里。它同等地困难、美丽而令人满足。 ——The Book of Shaders
+一、 shader学习资料</description>
+    </item>
+    
+    <item>
+      <title>去做门槛更高的事情</title>
+      <link>https://xiaowoniu22.github.io/wunderkammern/wunderkammern6/</link>
+      <pubDate>Tue, 18 Oct 2022 11:11:08 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/wunderkammern/wunderkammern6/</guid>
+      <description>去做门槛更高的事情，提高自己的不可替代性。</description>
+    </item>
+    
+    <item>
+      <title>mvp——图形学基础</title>
+      <link>https://xiaowoniu22.github.io/posts/post9/</link>
+      <pubDate>Sun, 16 Oct 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post9/</guid>
+      <description>引擎推动的不是飞船而是宇宙。飞船压根就没动过。
+一、 模型空间
+Model Matrix将模型空间转换为世界空间
+二、世界空间
+View Matrix将世界空间转换为摄像空间
+三、摄像空间</description>
+    </item>
+    
+    <item>
+      <title>线性代数——图形学基础</title>
+      <link>https://xiaowoniu22.github.io/posts/post8/</link>
+      <pubDate>Fri, 14 Oct 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post8/</guid>
+      <description>有一天我突发奇想，线性代数中的向量是不是就是故事中火柴人一样的存在，线性代数要给我们讲个故事，但是没有人物的故事很难讲下去，于是安排了向量作为故事的主角，故事就徐徐展开了&amp;hellip;&amp;hellip;
+一、 线性变换的本质是空间变换
+线性变换的本质是空间变换，线性代数则是空间变换的代数表达。代数表达是计算的基础。而向量，则只是线性变换的载体。
+二、矩阵与空间变换的关系
+矩阵向量乘法表示线性变换
+矩阵乘法表示线性变换复合
+三、齐次坐标
+齐次坐标真是妙啊。</description>
+    </item>
+    
+    <item>
+      <title>不要让你的大脑再自动驾驶了</title>
+      <link>https://xiaowoniu22.github.io/wunderkammern/wunderkammern5/</link>
+      <pubDate>Sat, 08 Oct 2022 11:11:08 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/wunderkammern/wunderkammern5/</guid>
+      <description>不要让你的大脑再自动驾驶了</description>
+    </item>
+    
+    <item>
+      <title>我对前端性能的一点理解</title>
+      <link>https://xiaowoniu22.github.io/posts/post14/</link>
+      <pubDate>Sat, 10 Sep 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post14/</guid>
+      <description>我对前端性能的一点理解
+大多数情况性能没那么重要，因为react已经够快了。而如何组织代码是重要的。
+一、代码规范和编程习惯是有利于性能的，在编程过程中应该遵守。比如：
+1、不使用内联style
+2、减少reflow， reflow会引起repain，repaint是整个页面的重新渲染
+二、从工程话的角度优化性能，如gzip，dll等。就像前面说的，如何组织代码很重要 三、有些优化方案不是绝对的，要看场景和项目规模，是发生了性能问题才去优化的（借助工具去检测性能）</description>
+    </item>
+    
+    <item>
+      <title>读书的作用是不是被夸大了？</title>
+      <link>https://xiaowoniu22.github.io/wunderkammern/wunderkammern4/</link>
+      <pubDate>Thu, 08 Sep 2022 11:11:08 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/wunderkammern/wunderkammern4/</guid>
+      <description>为什么读书被鼓励，刷视频被说成浪费时间？
+两者的本质都是获取信息，只不过媒介不一样。甚至可以说视频的沉浸式感受更强，对信息的印象也更深刻。如果只说刷短视频是浪费时间，短视频的内容没有结构性的逻辑，那看有些书也存在相同的问题。可见，问题的本身并不是获取信息的媒介问题，而是信息本身的问题。
+如果信息内容相同，读书和视频有什么区别
+那么，如果完全相同的内容，分别以文字的形式和视频的形式展示，又有什么不同呢。我能想到的是
+1、文字的信息密度更大一些，通过读书的方式在相同时间内获取的信息量更大
+2、视频存在更多的视觉干扰，看视频的方式会影响思维的连贯性和集中度
+但是，视频也有文字载体没有的优势。所以问题的本质不是获取信息的形式和载体，信息本身才是关键。不同的信息可以采取不同的信息获取方式。</description>
+    </item>
+    
+    <item>
+      <title>学习的本质是对抗遗忘吗？</title>
+      <link>https://xiaowoniu22.github.io/wunderkammern/wunderkammern3/</link>
+      <pubDate>Sat, 03 Sep 2022 11:11:08 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/wunderkammern/wunderkammern3/</guid>
+      <description>学习的本质是对抗遗忘吗？
+学习的本质是指导实践，那为什么我们总是被要求记住呢？</description>
+    </item>
+    
+    <item>
+      <title>前端的终极问题是复用——一句话解释一个概念</title>
+      <link>https://xiaowoniu22.github.io/posts/post13/</link>
+      <pubDate>Wed, 10 Aug 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post13/</guid>
+      <description>前端的终极问题就是复用吧
+组件封装——UI的复用 hooks——状态逻辑的复用</description>
+    </item>
+    
+    <item>
+      <title>promise就是状态机——一句话解释一个概念</title>
       <link>https://xiaowoniu22.github.io/posts/post12/</link>
       <pubDate>Fri, 05 Aug 2022 14:49:24 +0800</pubDate>
       
@@ -22,9 +129,9 @@
     </item>
     
     <item>
-      <title>原型链就是链表——挑战一句话解释一个概念</title>
+      <title>原型链就是链表——一句话解释一个概念</title>
       <link>https://xiaowoniu22.github.io/posts/post11/</link>
-      <pubDate>Tue, 02 Aug 2022 14:49:24 +0800</pubDate>
+      <pubDate>Wed, 03 Aug 2022 14:49:24 +0800</pubDate>
       
       <guid>https://xiaowoniu22.github.io/posts/post11/</guid>
       <description>Hi，原型链就是链表
@@ -40,46 +147,6 @@
       
       <guid>https://xiaowoniu22.github.io/wunderkammern/wunderkammern2/</guid>
       <description>最近看到一句话，”凡是我不能创造的,我就不能真正理解“，是物理学家费曼的名言，我想，创造的难度还是挺大的，我先来进行一下一句话解释一个概念的挑战</description>
-    </item>
-    
-    <item>
-      <title>shader</title>
-      <link>https://xiaowoniu22.github.io/posts/post10/</link>
-      <pubDate>Mon, 25 Jul 2022 14:49:24 +0800</pubDate>
-      
-      <guid>https://xiaowoniu22.github.io/posts/post10/</guid>
-      <description>有时你会觉得用 GLSL 编程就像是把一搜船放到了瓶子里。它同等地困难、美丽而令人满足。 ——The Book of Shaders
-一、 shader学习资料</description>
-    </item>
-    
-    <item>
-      <title>mvp——图形学基础</title>
-      <link>https://xiaowoniu22.github.io/posts/post9/</link>
-      <pubDate>Sat, 16 Jul 2022 14:49:24 +0800</pubDate>
-      
-      <guid>https://xiaowoniu22.github.io/posts/post9/</guid>
-      <description>引擎推动的不是飞船而是宇宙。飞船压根就没动过。
-一、 模型空间
-Model Matrix将模型空间转换为世界空间
-二、世界空间
-View Matrix将世界空间转换为摄像空间
-三、摄像空间</description>
-    </item>
-    
-    <item>
-      <title>线性代数——图形学基础</title>
-      <link>https://xiaowoniu22.github.io/posts/post8/</link>
-      <pubDate>Thu, 14 Jul 2022 14:49:24 +0800</pubDate>
-      
-      <guid>https://xiaowoniu22.github.io/posts/post8/</guid>
-      <description>有一天我突发奇想，线性代数中的向量是不是就是故事中火柴人一样的存在，线性代数要给我们讲个故事，但是没有人物的故事很难讲下去，于是安排了向量作为故事的主角，故事就徐徐展开了&amp;hellip;&amp;hellip;
-一、 线性变换的本质是空间变换
-线性变换的本质是空间变换，线性代数则是空间变换的代数表达。代数表达是计算的基础。而向量，则只是线性变换的载体。
-二、矩阵与空间变换的关系
-矩阵向量乘法表示线性变换
-矩阵乘法表示线性变换复合
-三、齐次坐标
-齐次坐标真是妙啊。</description>
     </item>
     
     <item>

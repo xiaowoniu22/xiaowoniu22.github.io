@@ -6,20 +6,11 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Aug 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>本质</title>
-      <link>https://xiaowoniu22.github.io/categories/%E6%9C%AC%E8%B4%A8/</link>
-      <pubDate>Fri, 05 Aug 2022 14:49:24 +0800</pubDate>
-      
-      <guid>https://xiaowoniu22.github.io/categories/%E6%9C%AC%E8%B4%A8/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 25 Oct 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>shader</title>
       <link>https://xiaowoniu22.github.io/categories/shader/</link>
-      <pubDate>Mon, 25 Jul 2022 14:49:24 +0800</pubDate>
+      <pubDate>Tue, 25 Oct 2022 14:49:24 +0800</pubDate>
       
       <guid>https://xiaowoniu22.github.io/categories/shader/</guid>
       <description></description>
@@ -28,9 +19,27 @@
     <item>
       <title>线性代数</title>
       <link>https://xiaowoniu22.github.io/categories/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</link>
-      <pubDate>Sat, 16 Jul 2022 14:49:24 +0800</pubDate>
+      <pubDate>Sun, 16 Oct 2022 14:49:24 +0800</pubDate>
       
       <guid>https://xiaowoniu22.github.io/categories/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>性能</title>
+      <link>https://xiaowoniu22.github.io/categories/%E6%80%A7%E8%83%BD/</link>
+      <pubDate>Sat, 10 Sep 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/categories/%E6%80%A7%E8%83%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>本质</title>
+      <link>https://xiaowoniu22.github.io/categories/%E6%9C%AC%E8%B4%A8/</link>
+      <pubDate>Wed, 10 Aug 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/categories/%E6%9C%AC%E8%B4%A8/</guid>
       <description></description>
     </item>
     

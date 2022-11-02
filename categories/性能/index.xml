@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>性能 on </title>
+    <link>https://xiaowoniu22.github.io/categories/%E6%80%A7%E8%83%BD/</link>
+    <description>Recent content in 性能 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Sep 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/categories/%E6%80%A7%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我对前端性能的一点理解</title>
+      <link>https://xiaowoniu22.github.io/posts/post14/</link>
+      <pubDate>Sat, 10 Sep 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post14/</guid>
+      <description>我对前端性能的一点理解
+大多数情况性能没那么重要，因为react已经够快了。而如何组织代码是重要的。
+一、代码规范和编程习惯是有利于性能的，在编程过程中应该遵守。比如：
+1、不使用内联style
+2、减少reflow， reflow会引起repain，repaint是整个页面的重新渲染
+二、从工程话的角度优化性能，如gzip，dll等。就像前面说的，如何组织代码很重要 三、有些优化方案不是绝对的，要看场景和项目规模，是发生了性能问题才去优化的（借助工具去检测性能）</description>
+    </item>
+    
+  </channel>
+</rss>
