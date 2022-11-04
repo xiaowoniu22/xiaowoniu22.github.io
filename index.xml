@@ -6,7 +6,16 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Oct 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2022 11:11:08 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>努力和进步是不相关的两件事</title>
+      <link>https://xiaowoniu22.github.io/wunderkammern/wunderkammern7/</link>
+      <pubDate>Tue, 01 Nov 2022 11:11:08 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/wunderkammern/wunderkammern7/</guid>
+      <description>当你想明白了努力和进步是两件毫无关联的事之后，你就不在纠结于为什么自己努力了却没有进步，而是去研究怎么才能让二者产生关联。</description>
+    </item>
+    
     <item>
       <title>shader</title>
       <link>https://xiaowoniu22.github.io/posts/post10/</link>
@@ -57,6 +66,19 @@ View Matrix将世界空间转换为摄像空间
     </item>
     
     <item>
+      <title>关于数学的一点点思考</title>
+      <link>https://xiaowoniu22.github.io/posts/post15/</link>
+      <pubDate>Mon, 10 Oct 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post15/</guid>
+      <description>关于数学的一点点思考
+很长一段时间我始终想不明白我为什么要不停的做题，做复杂的计算，直到我最近在重学线性代数。
+如果你想通过代码模拟物理世界的光照效果， 你需要计算物体表面的法向量；
+如果空间发生了变换，你需要计算变换之后的法向量，你需要先求得变换矩阵的逆转置矩阵。
+回想一下，我之前一直关注的是逆转置矩阵的求解公式，并通过做题来巩固它，但是逆转置矩阵的现实意义我却是不知道的。而现在，公式的求解过程我会通过数学方法库去计算，关注数学的现实意义才是最有价值的。</description>
+    </item>
+    
+    <item>
       <title>不要让你的大脑再自动驾驶了</title>
       <link>https://xiaowoniu22.github.io/wunderkammern/wunderkammern5/</link>
       <pubDate>Sat, 08 Oct 2022 11:11:08 +0800</pubDate>
@@ -100,7 +122,7 @@ View Matrix将世界空间转换为摄像空间
       <pubDate>Sat, 03 Sep 2022 11:11:08 +0800</pubDate>
       
       <guid>https://xiaowoniu22.github.io/wunderkammern/wunderkammern3/</guid>
-      <description>学习的本质是对抗遗忘吗？
+      <description>学习的本质是对抗遗忘吗？ 记住了概念跟学会了完全是两码事
 学习的本质是指导实践，那为什么我们总是被要求记住呢？</description>
     </item>
     

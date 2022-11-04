@@ -48,6 +48,19 @@ View Matrix将世界空间转换为摄像空间
     </item>
     
     <item>
+      <title>关于数学的一点点思考</title>
+      <link>https://xiaowoniu22.github.io/posts/post15/</link>
+      <pubDate>Mon, 10 Oct 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post15/</guid>
+      <description>关于数学的一点点思考
+很长一段时间我始终想不明白我为什么要不停的做题，做复杂的计算，直到我最近在重学线性代数。
+如果你想通过代码模拟物理世界的光照效果， 你需要计算物体表面的法向量；
+如果空间发生了变换，你需要计算变换之后的法向量，你需要先求得变换矩阵的逆转置矩阵。
+回想一下，我之前一直关注的是逆转置矩阵的求解公式，并通过做题来巩固它，但是逆转置矩阵的现实意义我却是不知道的。而现在，公式的求解过程我会通过数学方法库去计算，关注数学的现实意义才是最有价值的。</description>
+    </item>
+    
+    <item>
       <title>我对前端性能的一点理解</title>
       <link>https://xiaowoniu22.github.io/posts/post14/</link>
       <pubDate>Sat, 10 Sep 2022 14:49:24 +0800</pubDate>
