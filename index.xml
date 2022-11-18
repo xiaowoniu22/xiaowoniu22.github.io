@@ -6,7 +6,20 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Nov 2022 11:11:08 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 14:49:24 +0800</lastBuildDate><atom:link href="https://xiaowoniu22.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不要再纠结于原型链和继承了</title>
+      <link>https://xiaowoniu22.github.io/posts/post16/</link>
+      <pubDate>Thu, 10 Nov 2022 14:49:24 +0800</pubDate>
+      
+      <guid>https://xiaowoniu22.github.io/posts/post16/</guid>
+      <description>从这两个角度角度理解js原型链和继承，希望你不要再纠结原型链了。
+原型链就是链表 从构造函数的属性（及方法）的类型出发来实现继承（此处没有考虑静态属性和方法） 首先，要明白原型链就是链表，链表就包含节点和连接方式两个要素。实例对象或者构造函数的原型对象都可以作为节点，总之节点就是个对象。连接方式就是每个节点的__proto__（[[Prototype]]）,每个节点通过__proto__指向上一个节点来实现继承。
+所以，当你需要实现继承的时候只需要将节点的__proto__指向需要继承的父节点就可以了。这时你可能想到直接修改子节点的__proto__，像这样
+child.prototype.__proto__ = Parent.prototype 但是
+此时，你需要一个新的对象，这个对象的__proto__ 指向Parent.</description>
+    </item>
+    
     <item>
       <title>努力和进步是不相关的两件事</title>
       <link>https://xiaowoniu22.github.io/wunderkammern/wunderkammern7/</link>

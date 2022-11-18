@@ -112,6 +112,26 @@
           
           
           <article class="mb-5">
+  <h2 class="h4"><a class="post-title" href="https://xiaowoniu22.github.io/posts/post16/">不要再纠结于原型链和继承了</a></h2>
+  <div class="mb-3 post-meta">
+    <a href="/author/echo-guo/">Echo Guo</a>,
+    Nov 10, 2022, 
+    <a href="/categories/%e5%8e%9f%e5%9e%8b%e9%93%be%e5%92%8c%e7%bb%a7%e6%89%bf/">原型链和继承</a>
+    
+  </div>
+  <p>从这两个角度角度理解js原型链和继承，希望你不要再纠结原型链了。
+原型链就是链表 从构造函数的属性（及方法）的类型出发来实现继承（此处没有考虑静态属性和方法） 首先，要明白原型链就是链表，链表就包含节点和连接方式两个要素。实例对象或者构造函数的原型对象都可以作为节点，总之节点就是个对象。连接方式就是每个节点的__proto__（[[Prototype]]）,每个节点通过__proto__指向上一个节点来实现继承。
+所以，当你需要实现继承的时候只需要将节点的__proto__指向需要继承的父节点就可以了。这时你可能想到直接修改子节点的__proto__，像这样
+child.prototype.__proto__ = Parent.prototype 但是
+此时，你需要一个新的对象，这个对象的__proto__ 指向Parent.</p>
+  <div class="mb-3 post-meta">
+    
+  </div>
+  <a href="https://xiaowoniu22.github.io/posts/post16/" class="btn btn-sm btn-transparent pl-0">read more</a>
+  <div style="border: 1px #eee solid; margin:30px 0"></div>
+</article>
+          
+          <article class="mb-5">
   <h2 class="h4"><a class="post-title" href="https://xiaowoniu22.github.io/posts/post10/">shader</a></h2>
   <div class="mb-3 post-meta">
     <a href="/author/echo-guo/">Echo Guo</a>,
@@ -192,27 +212,6 @@ View Matrix将世界空间转换为摄像空间
   <div style="border: 1px #eee solid; margin:30px 0"></div>
 </article>
           
-          <article class="mb-5">
-  <h2 class="h4"><a class="post-title" href="https://xiaowoniu22.github.io/posts/post14/">我对前端性能的一点理解</a></h2>
-  <div class="mb-3 post-meta">
-    <a href="/author/echo-guo/">Echo Guo</a>,
-    Sep 10, 2022, 
-    <a href="/categories/%e6%80%a7%e8%83%bd/">性能</a>
-    
-  </div>
-  <p>我对前端性能的一点理解
-大多数情况性能没那么重要，因为react已经够快了。而如何组织代码是重要的。
-一、代码规范和编程习惯是有利于性能的，在编程过程中应该遵守。比如：
-1、不使用内联style
-2、减少reflow， reflow会引起repain，repaint是整个页面的重新渲染
-二、从工程话的角度优化性能，如gzip，dll等。就像前面说的，如何组织代码很重要 三、有些优化方案不是绝对的，要看场景和项目规模，是发生了性能问题才去优化的（借助工具去检测性能）</p>
-  <div class="mb-3 post-meta">
-    
-  </div>
-  <a href="https://xiaowoniu22.github.io/posts/post14/" class="btn btn-sm btn-transparent pl-0">read more</a>
-  <div style="border: 1px #eee solid; margin:30px 0"></div>
-</article>
-          
           
           <div class="mt-5">
             <!-- pagination -->
@@ -271,6 +270,20 @@ View Matrix将世界空间转换为摄像空间
                 <li class="page-item">
                   <a href="/amp/page/3/" class="page-link">
                     3
+                  </a>
+                </li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li class="page-item">
+                  <a href="/amp/page/4/" class="page-link">
+                    4
                   </a>
                 </li>
                 
